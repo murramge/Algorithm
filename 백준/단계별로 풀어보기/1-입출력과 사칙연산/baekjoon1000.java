@@ -12,7 +12,8 @@ public class baekjoon1000 {
 
 }
 
-/** 
+/**
+ *  
 스캐너를 사용하는 입력문제.
 Bufferreader로도 사용한다고 한다.
 

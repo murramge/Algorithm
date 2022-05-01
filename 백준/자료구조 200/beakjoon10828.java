@@ -34,11 +34,11 @@ public class beakjoon10828 {
                     sb.append(size()).append('\n');
                     //이것은 size()함수에 리턴해있는 것을 스트링빌드로 넣어준다.
                     break;
-                case: "empty" :
+                case "empty" :
                     sb.append(empty()).append('\n');
                       //이것은 empty()함수에 리턴해있는 것을 스트링빌드로 넣어준다.
                       break;
-                case : "top" :
+                case  "top" :
                     sb.append(top()).append('\n');
                       //이것은 top()함수에 리턴해있는 것을 스트링빌드로 넣어준다.
                         break;
@@ -50,7 +50,7 @@ public class beakjoon10828 {
     }
 
 
-    public static void push(item) {
+    public static void push(int item) {
     stack[size] = item;
     size++; 
     }

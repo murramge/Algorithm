@@ -1,4 +1,4 @@
-package hashmaptreeset;
+package hashmap_treeset;
 import java.util.*;
 
 public class 아나그램풀이 {

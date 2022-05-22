@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="백준/단계별로 풀어보기/1-입출력과 사칙연산"/>
+	<classpathentry kind="src" path="백준/단계별로 풀어보기/2-if문"/>
+	<classpathentry kind="src" path="백준/단계별로 풀어보기/3-for문"/>
+	<classpathentry kind="src" path="백준/단계별로 풀어보기/8-기본수학1"/>
+	<classpathentry kind="src" path="백준/자료구조 200"/>
+	<classpathentry kind="src" path="coding_test_algorithum"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -12,5 +12,3 @@ public class baekjoon1008 {
 }
 
 //이 문제는 소수점까지 나타내아 하기 때문에 double 형을 사용했다.
-
-​

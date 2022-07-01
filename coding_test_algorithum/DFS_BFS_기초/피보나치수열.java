@@ -17,6 +17,7 @@ public class 피보나치수열 {
 		T.DFS(n);
 		for(int i=1; i<=n; i++) {
 		System.out.print(fibo[i]+" ");
+		
 		}
 	}	
 }
